@@ -20,7 +20,7 @@ Camvid: https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid
 Cityscapes: https://www.cityscapes-dataset.com/
 
 ## Trained models
-To download the trained RALIS models for Camvid and Cityscapes (as well as the pretrained segmentation model on GTA and D_T subsets): https://drive.google.com/file/d/1vbFu4Yn673Wcfea4Lz21tKwTb8cs-7Y_/view?usp=sharing
+To download the trained RALIS models for Camvid and Cityscapes (as well as the pretrained segmentation model on GTA and D_T subsets): https://drive.google.com/file/d/13C4e0bWw6SEjTAD7JdAfLGVz7p7Veeb9/view?usp=sharing
 ## Citation
 If you use this code, please cite:
 ```
